@@ -6,7 +6,7 @@ int main(){‍
     cout<<"please enter the base number: "<<endl;‍
     cin>>base;‍
     cout<<"please enter the exponent:"<<endl;
-    hello
+
     cin>>exponent;‍
 ‍
 ‍
