@@ -37,6 +37,7 @@ Experienced in developing end-to-end systems with modern web technologies and st
   <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=Spring"/>
 </p>
 
 ---
